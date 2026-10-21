@@ -154,3 +154,10 @@ The previous Azure endpoint is no longer referenced. This repository never
 contained the Azure backend or its database credentials, so historical Azure
 records cannot be copied automatically. The AWS table starts empty unless you
 still have an export of those records.
+
+<!-- beyond-marks-credit:start -->
+---
+### Built by Beyond Marks AI Academy
+
+Developed by **Rakesh Kumar** at [Beyond Marks AI Academy](https://beyondmarks.ai).
+<!-- beyond-marks-credit:end -->
